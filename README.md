@@ -34,7 +34,8 @@
 </p>
 
 <div>     
-| <a href = "https://github.com/anuraghazra/github-readme-stats"><img height="180em" src=https://github-readme-stats.vercel.app/api?username=Shahriar-0&theme=github_dark&langs_count=12&layout=compact&hide=stars&count_private=true&show_icons=true&bg_color=00000000&alt="Top_Langs"/></a>|<a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&theme=rose_pine&langs_count=10"/></a>|
-    
+<a href = "https://github.com/anuraghazra/github-readme-stats"><img height="180em" src=https://github-readme-stats.vercel.app/api?username=Shahriar-0&theme=github_dark&langs_count=12&layout=compact&hide=stars&count_private=true&show_icons=true&bg_color=00000000&alt="Top_Langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
-    <!-- <img height="180em" srt="//github-readme-stats.vercel.app/api/wakatime?username=Shahriar-0)](https://github.com/anuraghazra/github-readme-stats)"/> -->
+
+<!-- <img height="180em" srt="//github-readme-stats.vercel.app/api/wakatime?username=Shahriar-0)](https://github.com/anuraghazra/github-readme-stats)"/> -->
