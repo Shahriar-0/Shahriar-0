@@ -15,10 +15,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.LOW_MIST }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - name: Commit and push files
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "Github Actions" 
+          author_email: "actions@github.com"
+          message: "Update Profile Summary"
+          add: "."
+          push: "https://github.com/Shahriar-0/Shahriar-0.git"
