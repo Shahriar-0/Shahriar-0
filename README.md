@@ -34,7 +34,13 @@
 </p>
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <div>     
+<<<<<<< Updated upstream
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src=https://github-readme-stats-alpha-seven-73.vercel.app/api?username=Shahriar-0&theme=github-dark-blue&langs_count=12&layout=compact&hide=stars&count_private=true&show_icons=true&bg_color=00000000&alt="Top_Langs"/><img height="180em" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&hide_border=true&langs_count=10&theme=dark&bg_color=000000#gh-dark-mode-only"/>
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-0&show_icons=true&theme=github-dark-blue><img src="https://github-readme-stats-alpha-seven-73.vercel.app/api/wakatime?username=low_mist&theme=dark"> 
+=======
+<a href = "https://github.com/anuraghazra/github-readme-stats"><img height="180em" src=https://github-readme-stats-alpha-seven-73.vercel.app/api?username=Shahriar-0&theme=rose_pine&langs_count=12&layout=compact&hide=stars&count_private=true&show_icons=true&bg_color=00000000&alt="Top_Langs"/><img height="180em" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&langs_count=10&theme=rose_pine"/>
+ <img src=https://github-readme-stats-alpha-seven-73.vercel.app/?user=Shahriar-0&show_icons=true&theme=github-dark-blue><img src="https://github-readme-stats-alpha-seven-73.vercel.app/api/wakatime?username=low_mist&theme=dark"> 
+
+>>>>>>> Stashed changes
 </div>
