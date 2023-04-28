@@ -35,5 +35,5 @@
 <div>     
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src=https://github-readme-stats-alpha-seven-73.vercel.app/api?username=Shahriar-0&theme=github-dark-blue&langs_count=12&layout=compact&hide=stars&count_private=true&show_icons=true&bg_color=00000000&alt="Top_Langs"/><img height="180em" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&hide_border=true&langs_count=10&theme=dark&bg_color=000000#gh-dark-mode-only"/>
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-0&show_icons=true&theme=github-dark-blue><img src="https://github-readme-stats-alpha-seven-73.vercel.app/api/wakatime?username=low_mist&theme=dark"> 
+<img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-0&show_icons=true&theme=github-dark-blue><img height="180em" width="380em" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/wakatime?username=low_mist&theme=dark"> 
 </div>
