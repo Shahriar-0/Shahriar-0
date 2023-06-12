@@ -52,10 +52,11 @@
 
 <div align="center">
   <a href="https://wakatime.com/@low_mist" style="margin-right: 0;">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/wakatime?username=low_mist&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="48%" alt="@low_mist's wakatime stats"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=low_mist&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="420px" alt="@low_mist's wakatime stats"/>
   </a>
   <a href="https://github.com/Shahriar-0?tab=repositories">
-    <img height="230em" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&hide_border=true&langs_count=10&theme=gotham" width="320em" alt="@low_mist's top languages"/>
+    <img height="200px" src="https://github-readme-stats-alpha-seven-73.vercel.app/api/top-langs/?username=Shahriar-0&layout=compact&hide_border=true&langs_count=10&theme=gotham" width="300px" alt="@low_mist's top languages"/>
   </a>
 </div>
+
 
